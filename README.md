@@ -21,7 +21,9 @@
   <img src="https://www.svgrepo.com/show/394296/mysql.svg" height="60" width="60" alt="mysql logo" title="MySQL"  />
   <img src="https://www.svgrepo.com/show/353874/hibernate.svg" height="60" width="60" alt="hibernate logo" title="Hibernate"  />
   <img src="https://www.svgrepo.com/show/452210/git.svg" height="60" width="60" alt="git logo" title="Git"  />
+  <img src="https://as2.ftcdn.net/v2/jpg/04/02/64/11/1000_F_402641103_2MkmiKGOGgudTxEW6z3H3dyBeaJY40mw.jpg" height="60" width="60" alt="microservices logo" title="Microservices"  />
   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" height="60" width="60" alt="postman logo" title="Postman"  />
+  <img src="https://www.svgrepo.com/show/448221/docker.svg" height="60" width="60" alt="docker logo" title="Docker"  />
   <img src="https://www.svgrepo.com/show/512317/github-142.svg" height="60" width="60" alt="github logo" title="GitHub"  />
   <img src="https://www.svgrepo.com/show/353906/intellij-idea.svg" height="60" width="60" alt="intellij logo" title="Intellij Idea"  />
   <img src="https://www.svgrepo.com/show/354069/microsoft-windows.svg" height="60" width="60" alt="windows logo" title="Windows"  />
