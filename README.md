@@ -23,6 +23,9 @@
   <img src="https://www.svgrepo.com/show/452210/git.svg" height="60" width="60" alt="git logo" title="Git"  />
   <img src="https://as2.ftcdn.net/v2/jpg/04/02/64/11/1000_F_402641103_2MkmiKGOGgudTxEW6z3H3dyBeaJY40mw.jpg" height="60" width="60" alt="microservices logo" title="Microservices"  />
   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" height="60" width="60" alt="postman logo" title="Postman"  />
+  <img src="https://www.svgrepo.com/show/452228/html-5.svg" height="60" width="60" alt="html logo" title="HTML"  />
+  <img src="https://www.svgrepo.com/show/354478/typescript-icon.svg" height="60" width="60" alt="ts logo" title="TypeScript"  />
+  <img src="https://www.svgrepo.com/show/353396/angular-icon.svg" height="60" width="60" alt="angular logo" title="Angular"  />
   <img src="https://www.svgrepo.com/show/448221/docker.svg" height="60" width="60" alt="docker logo" title="Docker"  />
   <img src="https://www.svgrepo.com/show/512317/github-142.svg" height="60" width="60" alt="github logo" title="GitHub"  />
   <img src="https://www.svgrepo.com/show/353906/intellij-idea.svg" height="60" width="60" alt="intellij logo" title="Intellij Idea"  />
